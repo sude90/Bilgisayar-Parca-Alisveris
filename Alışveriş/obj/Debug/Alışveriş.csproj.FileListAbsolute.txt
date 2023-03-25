@@ -1,0 +1,13 @@
+E:\Alışveriş\obj\Debug\Alışveriş.csproj.AssemblyReference.cache
+E:\Alışveriş\obj\Debug\Alışveriş.csproj.SuggestedBindingRedirects.cache
+E:\Alışveriş\obj\Debug\Alışveriş.Form1.resources
+E:\Alışveriş\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\Alışveriş\obj\Debug\Alışveriş.Form3.resources
+E:\Alışveriş\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Alışveriş\obj\Debug\Alışveriş.csproj.GenerateResource.cache
+E:\Alışveriş\obj\Debug\Alışveriş.csproj.CoreCompileInputs.cache
+E:\Alışveriş\obj\Debug\WindowsFormsApp2.exe
+E:\Alışveriş\obj\Debug\WindowsFormsApp2.pdb
+E:\Alışveriş\bin\Debug\WindowsFormsApp2.exe.config
+E:\Alışveriş\bin\Debug\WindowsFormsApp2.exe
+E:\Alışveriş\bin\Debug\WindowsFormsApp2.pdb
